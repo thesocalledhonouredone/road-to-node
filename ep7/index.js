@@ -15,7 +15,7 @@ const server = http.createServer((req, res) => {
     
 
     const formattedDate = `${year}/${month}/${day} - ${hrs}:${mins}:${sec}`;
-    fs.appendFile("./logFile.txt", formattedDate + "\n", (err) => {
+    fs.appendFile("logFile.txt", formattedDate + "\n", (err) => {
         console.log(err);
     });
     res.end("Server...");
