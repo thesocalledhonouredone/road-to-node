@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Orlan",
+    "last_name": "Fishlock",
+    "email": "ofishlock0@liveinternet.ru",
+    "job_title": "Quality Control Specialist"
+  },
+  {
+    "id": 2,
+    "first_name": "Starla",
+    "last_name": "Cartmail",
+    "email": "scartmail1@deviantart.com",
+    "job_title": "Senior Financial Analyst"
+  },
+  {
+    "id": 3,
+    "first_name": "Rosabella",
+    "last_name": "Cockings",
+    "email": "rcockings2@businessinsider.com",
+    "job_title": "Staff Accountant IV"
+  },
+  {
+    "id": 4,
+    "first_name": "Julee",
+    "last_name": "Gealle",
+    "email": "jgealle3@marketwatch.com",
+    "job_title": "Chemical Engineer"
+  },
+  {
+    "id": 5,
+    "first_name": "Cullen",
+    "last_name": "Duigan",
+    "email": "cduigan4@1und1.de",
+    "job_title": "Pharmacist"
+  },
+  {
+    "id": 6,
+    "first_name": "Tome",
+    "last_name": "Shelbourne",
+    "email": "tshelbourne5@altervista.org",
+    "job_title": "Associate Professor"
+  },
+  {
+    "id": 7,
+    "first_name": "Marianne",
+    "last_name": "Bett",
+    "email": "mbett6@a8.net",
+    "job_title": "Product Engineer"
+  },
+  {
+    "id": 8,
+    "first_name": "Irv",
+    "last_name": "Wastall",
+    "email": "iwastall7@t-online.de",
+    "job_title": "Environmental Tech"
+  },
+  {
+    "id": 9,
+    "first_name": "Bren",
+    "last_name": "De Vere",
+    "email": "bdevere8@wsj.com",
+    "job_title": "Pharmacist"
+  },
+  {
+    "id": 10,
+    "first_name": "Durante",
+    "last_name": "Samett",
+    "email": "dsamett9@t.co",
+    "job_title": "Environmental Tech"
+  }
+]
