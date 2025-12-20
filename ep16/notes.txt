@@ -1,0 +1,3 @@
+Header:
+HTTP Headers are an important part of the API request-response cycle as they contain meta-data associated with the API request and response.
+
