@@ -1,0 +1,19 @@
+INTRODUCTION TO MONGO_DB
+
+1. No-SQL Document Based Database
+2. Strong Support for Aggregation Pipes
+3. Works for BSON format
+4. Best for Node Applications
+
+MONGO_DB LAYOUT / ARCHITECTURE
+
+database (school)
+    collections (Teachers), (Students) - they are like tables in a traditional database
+        documents (each student is one doc) - docs are the rows in a database table
+
+BASIC COMMANDS IN MONGO_DB
+1. show dbs - will list all the avilable databases 
+2. use <db_name> - will swtich to the db 
+3. show collections - will show all avilable collections in the selected database
+4. db.collection.find() - will return all the documents in the collection
+5. db.collection.insertOne({}) - will insert a single document into the collection  
